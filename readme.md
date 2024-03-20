@@ -1,6 +1,6 @@
 ## S3 Project:
 
-```markdown
+
 # Terraform EC2 Instance with .war File from S3
 
 This Terraform project automates the provisioning of an EC2 instance on AWS. The instance will be configured to automatically download a `.war` file from an S3 bucket during boot-up.
